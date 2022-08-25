@@ -69,7 +69,7 @@ python ./scripts/cairo-auction.py
 
 If you like it than you shoulda put a start ⭐ on it
 
-Twitter: [@amanusk\_][https://twitter.com/amanusk_]
+Twitter: [@amanusk\_](https://twitter.com/amanusk_)
 
 ## License
 
