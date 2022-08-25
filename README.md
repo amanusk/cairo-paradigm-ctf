@@ -67,7 +67,7 @@ python ./scripts/cairo-auction.py
 
 ## Thanks
 
-If you like it than you shoulda put a start ⭐ on it
+If you like it then you shoulda put a start ⭐ on it
 
 Twitter: [@amanusk\_](https://twitter.com/amanusk_)
 
