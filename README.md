@@ -1,4 +1,4 @@
-# Running Cairo paradigm CTF solutiosn locally
+# Running Cairo paradigm CTF solutions locally
 
 This repository contains solutions for the Cairo challenges of the 2022 Paradigm-CTF
 
